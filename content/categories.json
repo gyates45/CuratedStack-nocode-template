@@ -7,6 +7,12 @@
       "icon": "🔨"
     },
     {
+      "slug": "resumes",
+      "name": "Resumes",
+      "description": "best resume services",
+      "icon": " 💬"
+    },
+    {
       "slug": "productivity",
       "name": "Productivity",
       "description": "best free productivity tools",
@@ -53,12 +59,6 @@
       "name": "Learning",
       "description": "best learning tools",
       "icon": "🎓"
-    },
-    {
-      "slug": "resumes",
-      "name": "Resumes",
-      "description": "best resume services",
-      "icon": " 💬"
     }
   ]
 }
