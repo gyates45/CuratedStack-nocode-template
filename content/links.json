@@ -71,6 +71,15 @@
       "categories_slugs": [
         "job-search-sites"
       ]
+    },
+    {
+      "name": "LinkedIn Resume Builder",
+      "url": "https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:11292698/?edit=true",
+      "description": "Build a resume from your LinkedIn profile. Not particularly useful, but you can specify a job title for the job you are applying for, and LinkedIn will show you suggested keywords that are already in your LinkedIn profile.  It will also give you a list of suggested keywords to add to your LinkedIn profile and resume.\n\n[If the link doesn't work, click on View profile. Click the More button on the introduction card. Select Build a resume from the dropdown.]",
+      "icon": "/images/logos/linked-in-logo.png",
+      "categories_slugs": [
+        "resumes"
+      ]
     }
   ]
 }
