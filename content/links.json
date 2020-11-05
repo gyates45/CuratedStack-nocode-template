@@ -2,34 +2,12 @@
   "links": [
     {
       "categories_slugs": [
-        "open-source",
-        "productivity",
-        "design",
-        "finance",
-        "ideas",
-        "trends",
-        "communication",
-        "well-being",
-        "books",
-        "food",
-        "learning",
-        "cryptocurrency"
+        "resumes"
       ],
-      "name": "Get Started with CuratedStack (No-Code) Template",
-      "description": "Create for free your own curated collection of websites for free",
-      "url": "https://github.com/sandoche/CuratedStack-nocode-template",
-      "icon": "/images/logos/icon.png"
-    },
-    {
-      "categories_slugs": [
-        "books",
-        "food",
-        "well-being"
-      ],
-      "name": "Tradivegan",
-      "description": "Traditional authentic vegan recipes from all around the world",
-      "url": "https://tradivegan.com/",
-      "icon": "/images/logos/tradivegan.png"
+      "name": "Ms. Career Girl Resume Optimization Tool",
+      "description": "Analyze your resume in seconds.",
+      "url": "https://www.mscareergirl.com/resume-optimization-tool/",
+      "icon": "/images/logos/detoxify.png"
     },
     {
       "categories_slugs": [
@@ -64,7 +42,8 @@
       ],
       "name": "Mobile App Landing Page Template",
       "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
+      "url": "https://github.com/sandoche/Mobile-app-landingpage-template",
+      "icon": "/images/logos/ms.-career-girl-logo.png"
     },
     {
       "categories_slugs": [
@@ -214,7 +193,8 @@
       ],
       "name": "Jekyll-webpack-boilerplate",
       "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
+      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
+      "icon": "/images/logos/coingenerator.png"
     },
     {
       "categories_slugs": [
