@@ -35,6 +35,15 @@
       "description": "Click on the big blue box at the top of search results when you Google for job openings. Google for Jobs is an enhanced search tool. It includes job listings from across almost all the major online job boards and listings on company websites. \n\nGoogle for Jobs provides specific search results alongside useful company information, such as online reviews and ratings, and job descriptions. Job seekers can create alerts for their narrowly-tailored individual keywords and filters.",
       "url": "https://www.google.com/search?q=new+york+city+jobs&oq=google+jobs&aqs=chrome..69i57j0l2j0i433i457j0l4.6502j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwink4vO0-vsAhUMXa0KHXT5Do8QiYsCKAB6BAhLEAQ&sxsrf=ALeKk00aT5qMJNfwTtAUicZ2pvQoOq8epg:1604587865963#fpstate=tldetail&htivrt=jobs&htidocid=tItToRvOVkxMYsrKAAAAAA%3D%3D",
       "icon": "/images/logos/google-for-jobs-logo.jpg"
+    },
+    {
+      "name": "LinkedIn Jobs",
+      "url": "https://www.linkedin.com/jobs/",
+      "categories_slugs": [
+        "job-search-sites"
+      ],
+      "icon": "/images/logos/linkedin-jobs-logo.png",
+      "description": "LinkedIn helps you find relevant jobs that suit your skills and qualifications. You can either search for a job using the search field on the top of the LinkedIn homepage or you can directly access the Jobs page where you can search and apply for jobs. Millions of jobs are posted on LinkedIn every day."
     }
   ]
 }
