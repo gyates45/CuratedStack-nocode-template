@@ -53,6 +53,15 @@
       "categories_slugs": [
         "job-search-sites"
       ]
+    },
+    {
+      "name": "Jessica Medina Financial Coaching",
+      "url": "https://www.jessicamedinallc.com/",
+      "icon": "/images/logos/jessica-medina-financial-consulting.png",
+      "categories_slugs": [
+        "financial"
+      ],
+      "description": "Jessica is Biglaw Exit Strategist and former Biglaw attorney who specializes in creating financial strategies for lawyers looking to make a change. You don’t have to be in Biglaw (or even a lawyer) to work with Jessica, but you may hear a lot of Biglaw stories!"
     }
   ]
 }
