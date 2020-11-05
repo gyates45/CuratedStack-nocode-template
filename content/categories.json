@@ -71,6 +71,12 @@
       "name": "Learning",
       "description": "best learning tools",
       "icon": "🎓"
+    },
+    {
+      "slug": "resumes",
+      "name": "Resumes",
+      "description": "best resume services",
+      "icon": " 💬"
     }
   ]
 }
