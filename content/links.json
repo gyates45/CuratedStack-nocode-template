@@ -62,6 +62,15 @@
         "financial"
       ],
       "description": "Jessica is Biglaw Exit Strategist and former Biglaw attorney who specializes in creating financial strategies for lawyers looking to make a change. You don’t have to be in Biglaw (or even a lawyer) to work with Jessica, but you may hear a lot of Biglaw stories!"
+    },
+    {
+      "name": "PSJD",
+      "description": "PSJD is the premier site for public interest and related job listing for lawyers.",
+      "url": "https://www.psjd.org/search?searchTypeID=jobs&n=0&l=10&o=2d",
+      "icon": "/images/logos/psjd-logo.jpg",
+      "categories_slugs": [
+        "job-search-sites"
+      ]
     }
   ]
 }
