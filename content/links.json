@@ -20,12 +20,12 @@
     },
     {
       "categories_slugs": [
-        "open-source"
+        "resumes"
       ],
-      "name": "Darkmode.js",
-      "description": "Add a dark-mode / night-mode to your website in a few seconds",
-      "url": "https://darkmodejs.learn.uno/",
-      "icon": "/images/logos/darkmode.png"
+      "name": "The Ladders",
+      "description": "Upload your resume in .pdf or .doc format. Analyze\nthe content, structure, and style instantly. Actionable recommendations will make your resume work for you",
+      "url": "https://www.theladders.com/resume-reviewer",
+      "icon": "/images/logos/the-ladders-logo.jpg"
     },
     {
       "categories_slugs": [
