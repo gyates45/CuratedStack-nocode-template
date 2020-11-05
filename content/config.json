@@ -2,9 +2,9 @@
   "title": "Curated Lawyers Job Search and Career Stack, In or Out of Law",
   "shortname": "Lawyers Curated Stack",
   "description": "Collection of free resources and tools for lawyer job search and career planning, in or out of law",
-  "contact_link": "gallant-hoover-a0b8b5.netlify.app",
+  "contact_link": "https://gallant-hoover-a0b8b5.netlify.app/",
   "google_analytics": "UA-46124779-3",
-  "hostname": "gallant-hoover-a0b8b5.netlify.app",
+  "hostname": "https://gallant-hoover-a0b8b5.netlify.app/",
   "icon": "/images/logos/favicon_icon_invert.jpg",
   "floatingPrompt": {
     "width": "500px",
