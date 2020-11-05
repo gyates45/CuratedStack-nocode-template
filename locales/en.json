@@ -1,17 +1,17 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "Curated Lawyers Job Search and Career Stack",
+  "description": "Find resources and tools to aid in your job search and career planning.",
   "tools": {
-    "title": "Tools & Resources",
-    "description": "Find the tool you need in each category"
+    "title": "Resources & Tools",
+    "description": "Find the resource or tool you need in each category"
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "title": "Any resource or tool to suggest?",
+    "description": "Any idea? Any amazing tool or resource forgotten? Feel free to send it!",
+    "copyright": "Made with ❤️ by Greg Yates",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Greg Yates",
+      "website": "https://gregyatesconsulting.com"
     }
   },
   "buttons": {
