@@ -29,12 +29,12 @@
     },
     {
       "categories_slugs": [
-        "design"
+        "job-search-sites"
       ],
-      "name": "Undesign (built with CuratedStack)",
-      "description": "Collection of free design tools and resources for makers, developers and designers",
-      "url": "https://undesign.learn.uno/",
-      "icon": "/images/logos/undesign.png"
+      "name": "Google for Jobs",
+      "description": "Click on the big blue box at the top of search results when you Google for job openings. Google for Jobs is an enhanced search tool. It includes job listings from across almost all the major online job boards and listings on company websites. \n\nGoogle for Jobs provides specific search results alongside useful company information, such as online reviews and ratings, and job descriptions. Job seekers can create alerts for their narrowly-tailored individual keywords and filters.",
+      "url": "https://www.google.com/search?q=new+york+city+jobs&oq=google+jobs&aqs=chrome..69i57j0l2j0i433i457j0l4.6502j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwink4vO0-vsAhUMXa0KHXT5Do8QiYsCKAB6BAhLEAQ&sxsrf=ALeKk00aT5qMJNfwTtAUicZ2pvQoOq8epg:1604587865963#fpstate=tldetail&htivrt=jobs&htidocid=tItToRvOVkxMYsrKAAAAAA%3D%3D",
+      "icon": "/images/logos/google-for-jobs-logo.jpg"
     },
     {
       "categories_slugs": [
@@ -118,103 +118,6 @@
       "description": "Trending repositories from GitHub, HackerNews & Reddit (Android & iOS)",
       "url": "https://gitnews.learn.uno/",
       "icon": "/images/logos/gitnews.png"
-    },
-    {
-      "categories_slugs": [
-        "communication"
-      ],
-      "name": "Textblast",
-      "description": "Send personalized mass messages easily",
-      "url": "https://textblast.learn.uno/",
-      "icon": "/images/logos/textblast.png"
-    },
-    {
-      "categories_slugs": [
-        "food"
-      ],
-      "name": "What to Eat in",
-      "description": "Discover what locals eat all around the world",
-      "url": "https://what.toeat.in/",
-      "icon": "/images/logos/wtei.png"
-    },
-    {
-      "categories_slugs": [
-        "learning"
-      ],
-      "name": "Learning Lab",
-      "description": "Learn anything in one month alongside your day job",
-      "url": "https://learn.uno/",
-      "icon": "/images/logos/learninglab.png"
-    },
-    {
-      "categories_slugs": [
-        "cryptocurrency",
-        "open-source"
-      ],
-      "name": "CoinGenerator",
-      "description": "Build an energy efficient PoS cryptocurrency with its own blockchain in a few minutes",
-      "url": "https://coingenerator.sh/",
-      "icon": "/images/logos/coingenerator.png"
-    },
-    {
-      "categories_slugs": [
-        "cryptocurrency",
-        "open-source"
-      ],
-      "name": "Motive",
-      "description": "Get rewarded by doing your own tasks",
-      "url": "https://motive.network/",
-      "icon": "/images/logos/motive.png"
-    },
-    {
-      "categories_slugs": [
-        "cryptocurrency",
-        "learning",
-        "open-source"
-      ],
-      "name": "NaivecoinStake",
-      "description": "NaivecoinStake is a tutorial to build from scratch a cryptocurrency using the Proof of Stake consensus.",
-      "url": "https://naivecoinstake.learn.uno/",
-      "icon": "/images/logos/naivecoinstake.png"
-    },
-    {
-      "categories_slugs": [
-        "productivity",
-        "open-source"
-      ],
-      "name": "Snoozever",
-      "description": "Get Gmail snoozed emails directly to Evernote",
-      "url": "https://snoozever.kanbanote.com/",
-      "icon": "/images/logos/snoozever.png"
-    },
-    {
-      "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Jekyll-webpack-boilerplate",
-      "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
-      "icon": "/images/logos/coingenerator.png"
-    },
-    {
-      "categories_slugs": [
-        "open-source",
-        "productivity",
-        "design",
-        "finance",
-        "ideas",
-        "trends",
-        "communication",
-        "well-being",
-        "books",
-        "food",
-        "learning",
-        "cryptocurrency"
-      ],
-      "name": "Create your own Curated Directory now",
-      "description": "Get started with the CuratedStack (No-Code) Template",
-      "url": "https://github.com/sandoche/CuratedStack-nocode-template",
-      "icon": "/images/logos/icon.png"
     }
   ]
 }
