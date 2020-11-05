@@ -44,6 +44,15 @@
       ],
       "icon": "/images/logos/linkedin-jobs-logo.png",
       "description": "LinkedIn helps you find relevant jobs that suit your skills and qualifications. You can either search for a job using the search field on the top of the LinkedIn homepage or you can directly access the Jobs page where you can search and apply for jobs. Millions of jobs are posted on LinkedIn every day."
+    },
+    {
+      "name": "Indeed",
+      "description": "Indeed.com enables you to search millions of job listings from thousands of websites, job boards, newspapers, blogs, company career pages, and associations to find job listings that match or have similar terms related to your search query.\n\nNot all of Indeed.com listings are on Google for Jobs.",
+      "url": "https://www.indeed.com/",
+      "icon": "/images/logos/indeed-logo.png",
+      "categories_slugs": [
+        "job-search-sites"
+      ]
     }
   ]
 }
