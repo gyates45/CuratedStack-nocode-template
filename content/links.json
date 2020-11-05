@@ -11,12 +11,12 @@
     },
     {
       "categories_slugs": [
-        "productivity"
+        "resumes"
       ],
-      "name": "Kanbanote",
-      "description": "Evernote as a Kanban board",
-      "url": "https://www.kanbanote.com",
-      "icon": "/images/logos/kanbanote.png"
+      "name": "Rezi",
+      "description": "AI-powered free resume builder is trusted by thousands of job seekers.\nCreate an ATS optimized resume and tailor it to any job application in only minutes.",
+      "url": "https://www.rezi.io/",
+      "icon": "/images/logos/rezi-logo.jpg"
     },
     {
       "categories_slugs": [
