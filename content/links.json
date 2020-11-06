@@ -89,6 +89,15 @@
         "finance"
       ],
       "description": "Jessica is Biglaw Exit Strategist and former Biglaw attorney who specializes in creating financial strategies for lawyers looking to make a change. You don’t have to be in Biglaw (or even a lawyer) to work with Jessica, but you may hear a lot of Biglaw stories!"
+    },
+    {
+      "url": "https://thingscareerrelated.com/2020/10/27/the-ultimate-list-of-80-linkedin-voices-job-seekers-should-follow/",
+      "name": "Ultimate List of 80+ LinkedIn Voices Job Seekers Should Follow",
+      "description": "General job search experts active on LinkedIn. The people on this list have stood out for sharing posts and articles; commenting on others’ content; producing video, YouTube, and podcasts; and overall providing sage advice on the job search. In short, they engage with their community.",
+      "icon": "/images/logos/cropped-job-seekers-stitting.jpg",
+      "categories_slugs": [
+        "linkedin"
+      ]
     }
   ]
 }
