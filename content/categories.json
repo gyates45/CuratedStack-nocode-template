@@ -19,6 +19,12 @@
       "icon": "📈"
     },
     {
+      "slug": "branding",
+      "name": "Professional Branding and Promotion",
+      "description": "Best professional branding and promotion",
+      "icon": "💡"
+    },
+    {
       "slug": "linkedin",
       "name": "LinkedIn",
       "description": "Best free resources to optimize your use of LinkedIn.",
@@ -55,9 +61,9 @@
       "icon": "📚"
     },
     {
-      "slug": "communication",
-      "name": "Communication",
-      "description": "best communication tools",
+      "slug": "relationships",
+      "name": "Relationship-Building",
+      "description": "best relationship-building tools",
       "icon": "💬"
     },
     {
@@ -83,12 +89,6 @@
       "name": "Well-being",
       "description": "best well-being tools",
       "icon": "🍀"
-    },
-    {
-      "slug": "branding",
-      "name": "Professional Branding and Promotion",
-      "description": "Best professional branding and promotion",
-      "icon": "💡"
     }
   ]
 }
