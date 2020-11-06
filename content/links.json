@@ -98,6 +98,15 @@
       "categories_slugs": [
         "linkedin"
       ]
+    },
+    {
+      "name": "Glassdoor",
+      "description": "Besides being a job search site, Glassdoor has one of the broadest salary calculators based on self-reported salaries.",
+      "categories_slugs": [
+        "salary"
+      ],
+      "icon": "/images/logos/glassdoor-logo.png",
+      "url": "https://www.glassdoor.com/Salaries/index.htm"
     }
   ]
 }
