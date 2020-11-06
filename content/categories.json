@@ -1,10 +1,28 @@
 {
   "categories": [
     {
+      "slug": "assessments",
+      "name": "Assessments",
+      "description": "best free personal and professional assessments",
+      "icon": "🍀"
+    },
+    {
+      "slug": "finance",
+      "name": "Finance",
+      "description": "best finance tools",
+      "icon": "💰"
+    },
+    {
       "slug": "linkedin",
       "name": "LinkedIn",
       "description": "Best free resources to optimize your use of LinkedIn.",
       "icon": "🔨"
+    },
+    {
+      "slug": "learning",
+      "name": "Learning",
+      "description": "best learning tools",
+      "icon": "🎓"
     },
     {
       "slug": "resumes",
@@ -13,10 +31,16 @@
       "icon": " 💬"
     },
     {
-      "slug": "productivity",
-      "name": "Productivity",
-      "description": "best free productivity tools",
-      "icon": "⌚"
+      "slug": "job-search-sites",
+      "name": "Job Search Sites",
+      "description": "job search sites worth a look",
+      "icon": " 💰"
+    },
+    {
+      "slug": "books",
+      "name": "Books",
+      "description": "best books",
+      "icon": "📚"
     },
     {
       "slug": "communication",
@@ -25,10 +49,10 @@
       "icon": "💬"
     },
     {
-      "slug": "finance",
-      "name": "Finance",
-      "description": "best finance tools",
-      "icon": "💰"
+      "slug": "productivity",
+      "name": "Productivity",
+      "description": "best free productivity tools",
+      "icon": "⌚"
     },
     {
       "slug": "trends",
@@ -46,30 +70,6 @@
       "slug": "well-being",
       "name": "Well-being",
       "description": "best well-being tools",
-      "icon": "🍀"
-    },
-    {
-      "slug": "books",
-      "name": "Books",
-      "description": "best books",
-      "icon": "📚"
-    },
-    {
-      "slug": "learning",
-      "name": "Learning",
-      "description": "best learning tools",
-      "icon": "🎓"
-    },
-    {
-      "slug": "job-search-sites",
-      "name": "Job Search Sites",
-      "description": "job search sites worth a look",
-      "icon": " 💰"
-    },
-    {
-      "slug": "assessments",
-      "name": "Assessments",
-      "description": "best free personal and professional assessments",
       "icon": "🍀"
     }
   ]
