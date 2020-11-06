@@ -65,6 +65,12 @@
       "name": "Job Search Sites",
       "description": "job search sites worth a look",
       "icon": " 💰"
+    },
+    {
+      "slug": "assessments",
+      "name": "Assessments",
+      "description": "best free personal and professional assessments",
+      "icon": "🍀"
     }
   ]
 }
