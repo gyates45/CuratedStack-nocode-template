@@ -25,6 +25,12 @@
       "icon": "💡"
     },
     {
+      "slug": "relationships",
+      "name": "Relationship-Building",
+      "description": "best relationship-building tools",
+      "icon": "💬"
+    },
+    {
       "slug": "linkedin",
       "name": "LinkedIn",
       "description": "Best free resources to optimize your use of LinkedIn.",
@@ -61,12 +67,6 @@
       "icon": "📚"
     },
     {
-      "slug": "relationships",
-      "name": "Relationship-Building",
-      "description": "best relationship-building tools",
-      "icon": "💬"
-    },
-    {
       "slug": "productivity",
       "name": "Productivity",
       "description": "best free productivity tools",
@@ -88,6 +88,12 @@
       "slug": "well-being",
       "name": "Well-being",
       "description": "best well-being tools",
+      "icon": "🍀"
+    },
+    {
+      "slug": "interviewing",
+      "name": "Interviewing",
+      "description": "best interviewing resources and tools",
       "icon": "🍀"
     }
   ]
