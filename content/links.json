@@ -107,6 +107,15 @@
       ],
       "icon": "/images/logos/glassdoor-logo.png",
       "url": "https://www.glassdoor.com/Salaries/index.htm"
+    },
+    {
+      "url": "https://www.nalpdirectory.com/index.cfm",
+      "description": "A great resource for research on almost 1000 (mostly) Big Law offices.",
+      "name": "NALP Directory of Legal Employers",
+      "icon": "/images/logos/nalp-logo.png",
+      "categories_slugs": [
+        "research"
+      ]
     }
   ]
 }
