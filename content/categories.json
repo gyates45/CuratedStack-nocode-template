@@ -101,6 +101,12 @@
       "name": "Job / Salary Negotiations",
       "description": "best job/salary negotiation resources and tools",
       "icon": "💰"
+    },
+    {
+      "slug": "news",
+      "name": "General and Legal News",
+      "description": "Best resources and tools to quickly assimilate general and legal news.",
+      "icon": "📰"
     }
   ]
 }
