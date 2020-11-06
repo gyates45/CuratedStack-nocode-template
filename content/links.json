@@ -2,33 +2,6 @@
   "links": [
     {
       "categories_slugs": [
-        "resumes"
-      ],
-      "name": "Ms. Career Girl Resume Optimization Tool",
-      "description": "Analyze your resume in seconds.",
-      "url": "https://www.mscareergirl.com/resume-optimization-tool/",
-      "icon": "/images/logos/ms.-career-girl-logo.png"
-    },
-    {
-      "categories_slugs": [
-        "resumes"
-      ],
-      "name": "Rezi",
-      "description": "AI-powered free resume builder is trusted by thousands of job seekers.\nCreate an ATS optimized resume and tailor it to any job application in only minutes.",
-      "url": "https://www.rezi.io/",
-      "icon": "/images/logos/rezi-logo.jpg"
-    },
-    {
-      "categories_slugs": [
-        "resumes"
-      ],
-      "name": "The Ladders",
-      "description": "Upload your resume in .pdf or .doc format. Analyze\nthe content, structure, and style instantly. Actionable recommendations will make your resume work for you",
-      "url": "https://www.theladders.com/resume-reviewer",
-      "icon": "/images/logos/the-ladders-logo.jpg"
-    },
-    {
-      "categories_slugs": [
         "job-search-sites"
       ],
       "name": "Google for Jobs",
@@ -55,15 +28,6 @@
       ]
     },
     {
-      "name": "Jessica Medina Financial Coaching",
-      "url": "https://www.jessicamedinallc.com/",
-      "icon": "/images/logos/jessica-medina-financial-consulting.png",
-      "categories_slugs": [
-        "finance"
-      ],
-      "description": "Jessica is Biglaw Exit Strategist and former Biglaw attorney who specializes in creating financial strategies for lawyers looking to make a change. You don’t have to be in Biglaw (or even a lawyer) to work with Jessica, but you may hear a lot of Biglaw stories!"
-    },
-    {
       "name": "PSJD",
       "description": "PSJD is the premier site for public interest and related job listing for lawyers.",
       "url": "https://www.psjd.org/search?searchTypeID=jobs&n=0&l=10&o=2d",
@@ -71,6 +35,33 @@
       "categories_slugs": [
         "job-search-sites"
       ]
+    },
+    {
+      "name": "USAJobs",
+      "description": "The best starting place for jobs with the federal government.",
+      "url": "https://www.usajobs.gov/",
+      "icon": "/images/logos/usajobs-logo.jpg",
+      "categories_slugs": [
+        "job-search-sites"
+      ]
+    },
+    {
+      "categories_slugs": [
+        "resumes"
+      ],
+      "name": "The Ladders",
+      "description": "Upload your resume in .pdf or .doc format. Analyze\nthe content, structure, and style instantly. Actionable recommendations will make your resume work for you",
+      "url": "https://www.theladders.com/resume-reviewer",
+      "icon": "/images/logos/the-ladders-logo.jpg"
+    },
+    {
+      "categories_slugs": [
+        "resumes"
+      ],
+      "name": "Rezi",
+      "description": "AI-powered free resume builder is trusted by thousands of job seekers.\nCreate an ATS optimized resume and tailor it to any job application in only minutes.",
+      "url": "https://www.rezi.io/",
+      "icon": "/images/logos/rezi-logo.jpg"
     },
     {
       "name": "LinkedIn Resume Builder",
@@ -82,13 +73,22 @@
       ]
     },
     {
-      "name": "USAJobs",
-      "description": "The best starting place for jobs with the federal government.",
-      "url": "https://www.usajobs.gov/",
-      "icon": "/images/logos/usajobs-logo.jpg",
       "categories_slugs": [
-        "job-search-sites"
-      ]
+        "resumes"
+      ],
+      "name": "Ms. Career Girl Resume Optimization Tool",
+      "description": "Analyze your resume in seconds.",
+      "url": "https://www.mscareergirl.com/resume-optimization-tool/",
+      "icon": "/images/logos/ms.-career-girl-logo.png"
+    },
+    {
+      "name": "Jessica Medina Financial Coaching",
+      "url": "https://www.jessicamedinallc.com/",
+      "icon": "/images/logos/jessica-medina-financial-consulting.png",
+      "categories_slugs": [
+        "finance"
+      ],
+      "description": "Jessica is Biglaw Exit Strategist and former Biglaw attorney who specializes in creating financial strategies for lawyers looking to make a change. You don’t have to be in Biglaw (or even a lawyer) to work with Jessica, but you may hear a lot of Biglaw stories!"
     }
   ]
 }
