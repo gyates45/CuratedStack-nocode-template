@@ -13,6 +13,12 @@
       "icon": "💰"
     },
     {
+      "slug": "market-research",
+      "name": "Market Research",
+      "description": "best job market research sites",
+      "icon": "📈"
+    },
+    {
       "slug": "linkedin",
       "name": "LinkedIn",
       "description": "Best free resources to optimize your use of LinkedIn.",
@@ -73,9 +79,9 @@
       "icon": "🍀"
     },
     {
-      "slug": "market-research",
-      "name": "Market Research",
-      "description": "best job market research sites",
+      "slug": "entrepreneurial  ",
+      "name": "Entrepreneurial / Passion Projects / Side Hustles",
+      "description": "best entrepreneurial / passion projects / side hustles",
       "icon": "📈"
     }
   ]
