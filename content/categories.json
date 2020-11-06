@@ -44,9 +44,15 @@
     },
     {
       "slug": "resumes",
-      "name": "Resumes",
+      "name": "Resumes and Other Job Search Documentation",
       "description": "best resume services",
       "icon": " 💬"
+    },
+    {
+      "slug": "interviewing",
+      "name": "Interviewing",
+      "description": "best interviewing resources and tools",
+      "icon": "🍀"
     },
     {
       "slug": "job-search-sites",
@@ -88,12 +94,6 @@
       "slug": "well-being",
       "name": "Well-being",
       "description": "best well-being tools",
-      "icon": "🍀"
-    },
-    {
-      "slug": "interviewing",
-      "name": "Interviewing",
-      "description": "best interviewing resources and tools",
       "icon": "🍀"
     }
   ]
