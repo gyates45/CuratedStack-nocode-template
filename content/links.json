@@ -116,6 +116,15 @@
       "categories_slugs": [
         "research"
       ]
+    },
+    {
+      "name": "Upstract",
+      "url": "https://upstract.com/",
+      "icon": "/images/logos/upstract-logo.jpg",
+      "categories_slugs": [
+        "news"
+      ],
+      "description": "News aggregator with feeds from dozens of news sources including the NY Times, Wash Post, AP, CNN, Huff Post, Axios, NBC, CBS, ABC, Fox, MSNBC, and many more. Also includes user-curated news and Youtube, Twitter, and Google Trending news."
     }
   ]
 }
