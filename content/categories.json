@@ -71,6 +71,12 @@
       "name": "Well-being",
       "description": "best well-being tools",
       "icon": "🍀"
+    },
+    {
+      "slug": "market-research",
+      "name": "Market Research",
+      "description": "best job market research sites",
+      "icon": "📈"
     }
   ]
 }
