@@ -80,6 +80,15 @@
       "categories_slugs": [
         "resumes"
       ]
+    },
+    {
+      "name": "USAJobs",
+      "description": "The best starting place for jobs with the federal government.",
+      "url": "https://www.usajobs.gov/",
+      "icon": "/images/logos/usajobs-logo.jpg",
+      "categories_slugs": [
+        "job-search-sites"
+      ]
     }
   ]
 }
