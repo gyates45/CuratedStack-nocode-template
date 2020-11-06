@@ -43,6 +43,12 @@
       "icon": " 💰"
     },
     {
+      "slug": "entrepreneurial  ",
+      "name": "Entrepreneurial / Passion Projects / Side Hustles",
+      "description": "best entrepreneurial / passion projects / side hustles",
+      "icon": "📈"
+    },
+    {
       "slug": "books",
       "name": "Books",
       "description": "best books",
@@ -79,10 +85,10 @@
       "icon": "🍀"
     },
     {
-      "slug": "entrepreneurial  ",
-      "name": "Entrepreneurial / Passion Projects / Side Hustles",
-      "description": "best entrepreneurial / passion projects / side hustles",
-      "icon": "📈"
+      "slug": "branding",
+      "name": "Professional Branding and Promotion",
+      "description": "Best professional branding and promotion",
+      "icon": "💡"
     }
   ]
 }
