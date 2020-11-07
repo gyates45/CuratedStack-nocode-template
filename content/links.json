@@ -147,7 +147,7 @@
     {
       "url": "https://start.me/start/us/startpage",
       "name": "StartMe",
-      "description": "Customizable dashboard to create personalized webpage aggregating feeds from all your favorite sites with rollover feature to preview each item in your feed. ",
+      "description": "Customizable dashboard to create personalized webpage aggregating and organizing feeds from all your favorite sites with rollover feature to preview each item in your feed. ",
       "categories_slugs": [
         "news"
       ],
