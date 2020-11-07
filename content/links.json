@@ -125,6 +125,15 @@
         "news"
       ],
       "description": "News aggregator with feeds from dozens of news sources including the NY Times, Wash Post, AP, CNN, Huff Post, Axios, NBC, CBS, ABC, Fox, MSNBC, and many more. Also includes user-curated news and Youtube, Twitter, and Google Trending news."
+    },
+    {
+      "name": "Lawyer Career Tweeters",
+      "url": "https://twitter.com/i/lists/175210662",
+      "description": "Tweeters who focus on subjects relevant for lawyers in career transition.",
+      "categories_slugs": [
+        "ideas"
+      ],
+      "icon": "/images/logos/twitter-logo.png"
     }
   ]
 }
