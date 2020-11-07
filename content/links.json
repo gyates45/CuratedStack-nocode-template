@@ -129,11 +129,20 @@
     {
       "name": "Lawyer Career Tweeters",
       "url": "https://twitter.com/i/lists/175210662",
-      "description": "Tweeters who focus on subjects relevant for lawyers in career transition.",
+      "description": "Tweeters who focus on job search and career matters relevant for lawyers in career transition.",
       "categories_slugs": [
         "ideas"
       ],
       "icon": "/images/logos/twitter-logo.png"
+    },
+    {
+      "name": "General Career Tweeters",
+      "description": "Tweeters who focus on general job search and career topics relevant for lawyers in career transition.",
+      "url": "https://twitter.com/i/lists/188235133",
+      "icon": "/images/logos/twitter-logo.png",
+      "categories_slugs": [
+        "ideas"
+      ]
     }
   ]
 }
