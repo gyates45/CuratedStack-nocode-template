@@ -143,6 +143,15 @@
       "categories_slugs": [
         "ideas"
       ]
+    },
+    {
+      "url": "https://start.me/start/us/startpage",
+      "name": "StartMe",
+      "description": "Customizable dashboard to create personalized webpage aggregating feeds from all your favorite sites with rollover feature to preview each item in your feed. ",
+      "categories_slugs": [
+        "news"
+      ],
+      "icon": "/images/logos/startme-logo.jpg"
     }
   ]
 }
