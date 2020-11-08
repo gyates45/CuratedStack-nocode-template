@@ -179,6 +179,15 @@
         "entrepreneurial"
       ],
       "icon": "/images/logos/bluehost-logo.png"
+    },
+    {
+      "name": "Jobscan",
+      "description": "Start by uploading your current resume. Then add a job description to see tips for optimizing your resume. Analyzes from ATS, recruiter, skills, keyword, and other perspectives.",
+      "url": "https://www.jobscan.co/",
+      "icon": "/images/logos/jobscan-logo.png",
+      "categories_slugs": [
+        "resumes"
+      ]
     }
   ]
 }
