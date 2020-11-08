@@ -161,6 +161,15 @@
       "categories_slugs": [
         "books"
       ]
+    },
+    {
+      "name": "Namecheap",
+      "url": "https://www.dpbolvw.net/click-100263097-14326263",
+      "description": "Website domain names from $.99 ($8.00 for .com) along with add-on economical web hosting, email, and other services.",
+      "categories_slugs": [
+        "entrepreneurial"
+      ],
+      "icon": "/images/logos/namechap-logo.png"
     }
   ]
 }
