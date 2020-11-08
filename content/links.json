@@ -152,6 +152,15 @@
         "news"
       ],
       "icon": "/images/logos/startme-logo.jpg"
+    },
+    {
+      "name": "Professional Prosperity for Lawyers",
+      "description": "Shows the process for lawyers to find the perfect job and create your ideal career.",
+      "url": "https://amzn.to/3l4DPah",
+      "icon": "/images/logos/professional-prosperity-for-lawyers-book-cover.jpg",
+      "categories_slugs": [
+        "books"
+      ]
     }
   ]
 }
