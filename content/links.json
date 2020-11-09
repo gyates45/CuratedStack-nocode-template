@@ -188,6 +188,15 @@
       "categories_slugs": [
         "resumes"
       ]
+    },
+    {
+      "url": "https://linkedin.github.io/career-explorer/",
+      "name": "LinkedIn Career Explorer",
+      "description": "The path to a new job isn’t always clear. There are jobs that are a great fit but might seem out of reach, and others you may not even know you have the skills for. LinkedIn is now putting the power of their data in your hands: uncover potential career paths and see how your skills match to real job titles.",
+      "icon": "/images/logos/linked-in-logo.png",
+      "categories_slugs": [
+        "research"
+      ]
     }
   ]
 }
