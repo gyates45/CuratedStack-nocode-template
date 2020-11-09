@@ -206,6 +206,15 @@
       ],
       "icon": "/images/logos/google-alerts-logo.png",
       "description": "Google service which sends emails to the user when it finds new results—such as web pages, newspaper articles, blogs, or scientific research—that match the user's search term."
+    },
+    {
+      "name": "Fishbowl",
+      "description": "The Fishbowl app is where professionals go to connect and talk in a new era of remote work.\n\nChoose from thousands of Industry, Community or Company Bowls (\"Groups\") and have honest conversations with other verified professionals that are working in roles and industries similar to your own.\n\nYou can join different bowls or professional groups with others from the same background as yourself to get real advice, share work stories, and network.",
+      "url": "https://www.fishbowlapp.com/",
+      "categories_slugs": [
+        "research"
+      ],
+      "icon": "/images/logos/fishbowl-logo.png"
     }
   ]
 }
