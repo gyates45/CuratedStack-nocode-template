@@ -197,6 +197,15 @@
       "categories_slugs": [
         "research"
       ]
+    },
+    {
+      "name": "Google Alerts",
+      "url": "https://www.google.com/alerts",
+      "categories_slugs": [
+        "research"
+      ],
+      "icon": "/images/logos/google-alerts-logo.png",
+      "description": "Google service which sends emails to the user when it finds new results—such as web pages, newspaper articles, blogs, or scientific research—that match the user's search term."
     }
   ]
 }
