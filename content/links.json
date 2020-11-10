@@ -260,6 +260,15 @@
       "categories_slugs": [
         "entrepreneurial"
       ]
+    },
+    {
+      "categories_slugs": [
+        "entrepreneurial"
+      ],
+      "description": "AppSumo is the #1 software deal site for lifetime software deals, discounts on small business tools, & free resources. All the tools you need to grow your business. Limited time offers. Money-back guarantee. Limited time offers. Huge discounts.",
+      "name": "AppSumo",
+      "icon": "/images/logos/app-sumo-logo.jpg",
+      "url": "https://appsumo.com/browse/"
     }
   ]
 }
