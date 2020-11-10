@@ -215,6 +215,15 @@
         "research"
       ],
       "icon": "/images/logos/fishbowl-logo.png"
+    },
+    {
+      "name": "Exit From Work: What Will The New You Look Like?",
+      "url": "https://amzn.to/3pdozue",
+      "categories_slugs": [
+        "books"
+      ],
+      "icon": "/images/logos/exit-from-work.jpg",
+      "description": "This is the time when “60” is truly the new “40.” What does this mean for you? This book walks you through the many new options you have available in today’s opportunity-expansive world. It just takes “knowing” where to look. EXIT FROM WORK is brimming with actionable ideas to help you redefine the typical conceptions about work and retirement that is now seen as optional by millions of people who are living strong, healthy lives longer."
     }
   ]
 }
