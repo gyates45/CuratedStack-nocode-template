@@ -242,6 +242,15 @@
       "categories_slugs": [
         "books"
       ]
+    },
+    {
+      "name": "PSJD Student Loan Repayment Page",
+      "description": "Guide to resources on student debt management and loan repayment options, including repayment calculators and loan repayment assistance.",
+      "categories_slugs": [
+        "financial"
+      ],
+      "icon": "/images/logos/psjd-logo.jpg",
+      "url": "https://www.psjd.org/Student_Loan_Repayment"
     }
   ]
 }
