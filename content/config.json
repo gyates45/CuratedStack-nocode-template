@@ -1,7 +1,7 @@
 {
-  "title": "Curated Lawyers Job Search and Career Stack, In or Out of Law",
-  "shortname": "Lawyers Curated Stack",
-  "description": "Collection of free resources and tools for lawyer job search and career planning, in or out of law",
+  "title": "Curated Lawyers Job Search and Career Stack, For Jobs and Careers In or Out of Law",
+  "shortname": "Lawyers Curated Job Search and Career Stack",
+  "description": "Curated collection of resources and tools for lawyers' job search and career planning, in or out of law",
   "contact_link": "stacks.gregyatesconsulting.com",
   "google_analytics": "UA-46124779-3",
   "hostname": "https://gallant-hoover-a0b8b5.netlify.app/",
@@ -10,11 +10,11 @@
     "width": "500px",
     "left": "unset",
     "bottom": "112px",
-    "name": "Curated Lawyers Job Search and Career Stack, In or Out of Law",
+    "name": "Curated Lawyers Job Search and Career Stack, For Jobs and Careers In or Out of Law",
     "text": "Hi, do you like Curated Lawyers Job Search and Career Stack? ",
     "url": "https://gregyatesconsulting.ck.page/c1e91b62c4",
     "right": "32px",
-    "disabled": false,
+    "disabled": true,
     "buttonText": "Download Format of a Relationship-Building Meeting"
   }
 }
