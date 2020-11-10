@@ -233,6 +233,15 @@
       "url": "https://amzn.to/3eH8BDI",
       "icon": "/images/logos/getting-things-done.jpg",
       "description": "Since it was first published in 2002, David Allen’s Getting Things Done has become one of the most influential business books of its era, and the ultimate book on personal organization and productivity. “GTD” is now shorthand for an entire way of approaching professional and personal tasks, and has spawned an entire culture of websites, organizational tools, seminars, and offshoots."
+    },
+    {
+      "name": "Life After Law: Finding Work You Love with the J.D. You Have",
+      "description": "Unlike generic career guides, Life After Law shows lawyers how to reframe their legal experience to their competitive advantage, no matter how long they have been in or out of practice, to find work they truly love. Liz Brown draws on her experience, and the experience of dozens of other lawyers, to offer an alternative framework and valuable analytic tools for potential careers to help launch lawyers into new fields and make them attractive hires for non-legal employers.",
+      "url": "https://amzn.to/3pfypvG",
+      "icon": "/images/logos/life-after-law.jpg",
+      "categories_slugs": [
+        "books"
+      ]
     }
   ]
 }
