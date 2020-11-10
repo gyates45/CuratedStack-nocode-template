@@ -9,7 +9,7 @@
     {
       "slug": "finance",
       "name": "Finance",
-      "description": "Best resources and tools for financial issues including student loans.",
+      "description": "Best resources and tools for financial matters including student loans.",
       "icon": "💲"
     },
     {
@@ -21,43 +21,43 @@
     {
       "slug": "branding",
       "name": "Professional Branding and Promotion",
-      "description": "Best professional branding and promotion",
+      "description": "Best resources and tools for professional branding and promotion.",
       "icon": "©️"
     },
     {
       "slug": "relationships",
       "name": "Relationship-Building",
-      "description": "best relationship-building tools",
+      "description": "Best resources and tools for relationship-building and development.",
       "icon": "🧑‍🤝‍🧑"
     },
     {
       "slug": "linkedin",
       "name": "LinkedIn",
-      "description": "Best free resources to optimize your use of LinkedIn.",
+      "description": "Best resources and tools to optimize your LinkedIn profile and how to use it for maximum impact in your job search and career planning.",
       "icon": "🖇"
     },
     {
       "slug": "learning",
       "name": "Learning",
-      "description": "best learning tools",
+      "description": "Best resources and tools for your lifelong learning, including online training and courses useful for your successful job search and career planning.",
       "icon": "👩‍🎓"
     },
     {
       "slug": "resumes",
       "name": "Resumes and Other Job Search Documentation",
-      "description": "best resume services",
+      "description": "Best resources and tools for resume, cover letter, outreach email, and thank you note creation and optimization.",
       "icon": " 📝"
     },
     {
       "slug": "interviewing",
       "name": "Interviewing",
-      "description": "best interviewing resources and tools",
+      "description": "Best resources and tools to prepare for and ace your interviews.",
       "icon": "🤵"
     },
     {
       "slug": "job-search-sites",
       "name": "Job Search Sites",
-      "description": "job search sites worth a look",
+      "description": "Best job search sites for your job search and career planning.",
       "icon": "🕵"
     },
     {
@@ -75,37 +75,37 @@
     {
       "slug": "productivity",
       "name": "Productivity",
-      "description": "Best productivity resources and tools to increase your efficiency and effectiveness in your career (and life).",
+      "description": "Best productivity resources and tools to increase your efficiency and effectiveness in your job search, career, and life.",
       "icon": "⌚"
     },
     {
       "slug": "trends",
       "name": "Trends",
-      "description": "best trends tools",
+      "description": "Best resources and tools to discover trends impacting your job search and career planning, in or out of law.",
       "icon": "📈"
     },
     {
       "slug": "ideas",
       "name": "Ideas",
-      "description": "Best resources and tools for lawyers to find ideas helpful to their job searches and career transitions.",
+      "description": "Best resources and tools for lawyers to find ideas helpful to their job searches and career transitions, in or out of law.",
       "icon": "💡"
     },
     {
       "slug": "well-being",
-      "name": "Well-being",
-      "description": "best well-being tools",
+      "name": "Health and Well-Being",
+      "description": "Best resources and tools on health and well-being for lawyers.",
       "icon": "👩‍⚕️"
     },
     {
       "slug": "salary",
       "name": "Job / Salary Negotiations",
-      "description": "best job/salary negotiation resources and tools",
+      "description": "Best resources and tools on job/salary negotiation including benefits and other important considerations when considering a job offer.",
       "icon": "💰"
     },
     {
       "slug": "news",
       "name": "General and Legal News",
-      "description": "Best resources and tools to quickly assimilate general and legal news.",
+      "description": "Best resources and tools to quickly assimilate general and legal news that may impact your job search and career planning.",
       "icon": "📰"
     }
   ]
