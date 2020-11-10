@@ -224,6 +224,15 @@
       ],
       "icon": "/images/logos/exit-from-work.jpg",
       "description": "This is the time when “60” is truly the new “40.” What does this mean for you? This book walks you through the many new options you have available in today’s opportunity-expansive world. It just takes “knowing” where to look. EXIT FROM WORK is brimming with actionable ideas to help you redefine the typical conceptions about work and retirement that is now seen as optional by millions of people who are living strong, healthy lives longer."
+    },
+    {
+      "name": "Getting Things Done: The Art of Stress-Free Productivity",
+      "categories_slugs": [
+        "productivity"
+      ],
+      "url": "https://amzn.to/3eH8BDI",
+      "icon": "/images/logos/getting-things-done.jpg",
+      "description": "Since it was first published in 2002, David Allen’s Getting Things Done has become one of the most influential business books of its era, and the ultimate book on personal organization and productivity. “GTD” is now shorthand for an entire way of approaching professional and personal tasks, and has spawned an entire culture of websites, organizational tools, seminars, and offshoots."
     }
   ]
 }
