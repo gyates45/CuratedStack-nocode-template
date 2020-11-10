@@ -251,6 +251,15 @@
       ],
       "icon": "/images/logos/psjd-logo.jpg",
       "url": "https://www.psjd.org/Student_Loan_Repayment"
+    },
+    {
+      "name": "Product Hunt",
+      "description": "Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.",
+      "url": "https://www.producthunt.com/",
+      "icon": "/images/logos/product-hunt-logo.jpg",
+      "categories_slugs": [
+        "entrepreneurship"
+      ]
     }
   ]
 }
