@@ -341,6 +341,24 @@
       "categories_slugs": [
         "productivity"
       ]
+    },
+    {
+      "name": "Krisp",
+      "description": "Krisp recognizes and removes background noise in online meetings (Zoom, Skype, etc.) and calls in real-time, leaving only a clean human voice. Its AI-powered noise canceling technology adapts to your voice and improves over time. For PC and Mac. Also has an iOS app.",
+      "url": "https://krisp.ai/",
+      "icon": "/images/logos/krisp-logo.png",
+      "categories_slugs": [
+        "productivity"
+      ]
+    },
+    {
+      "name": "LastPass",
+      "description": "LastPass is a password manager, digital vault, form filler, and secure digital wallet. LastPass remembers all your passwords for you to help keep account information safe. It also helps you quickly log in to websites and fill in forms.",
+      "url": "https://www.lastpass.com/",
+      "icon": "/images/logos/lastpass-logo.png",
+      "categories_slugs": [
+        "productivity"
+      ]
     }
   ]
 }
