@@ -314,6 +314,24 @@
         "relationships"
       ],
       "icon": "/images/logos/meetup-logo.png"
+    },
+    {
+      "name": "Trello",
+      "description": "Trello is a Kanban-style visual tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on and where something is in a process. All your projects and tasks are accounted for and easily visible at a glance. ",
+      "categories_slugs": [
+        "productivity"
+      ],
+      "icon": "/images/logos/trello-logo.png",
+      "url": "https://trello.com/"
+    },
+    {
+      "name": "Todoist",
+      "description": "If you're looking for one of the best to-do list apps, one that works on all your devices, has great features for monitoring your productivity, and lets you geek out on organizing everything you have to do, Todoist is for you.",
+      "url": "https://todoist.com/",
+      "icon": "/images/logos/todoist-logo.png",
+      "categories_slugs": [
+        "productivity"
+      ]
     }
   ]
 }
