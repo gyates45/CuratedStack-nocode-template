@@ -332,6 +332,15 @@
       "categories_slugs": [
         "productivity"
       ]
+    },
+    {
+      "description": "A powerful yet simple automated scheduling tool. Takes the work out of connecting with others so you can accomplish more. Schedule meetings without the hassle. Never get double-booked. Calendly works with your calendar to automate appointment scheduling.",
+      "name": "Calendly",
+      "url": "https://calendly.com/",
+      "icon": "/images/logos/calendly-logo.png",
+      "categories_slugs": [
+        "productivity"
+      ]
     }
   ]
 }
