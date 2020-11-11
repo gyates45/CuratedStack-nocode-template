@@ -278,6 +278,15 @@
       "categories_slugs": [
         "relationships"
       ]
+    },
+    {
+      "name": "Technolawyer",
+      "description": "TechnoLawyer curated newsletters are comprehensive resources for the latest on legal technology, law office management, law firm marketing, and litigation practice. Plus get answers to your own questions from TechnoLawyer's 12,000+ members.",
+      "url": "https://www.technolawyer.com/",
+      "categories_slugs": [
+        "news"
+      ],
+      "icon": "/images/logos/technolawyer-logo.jpg"
     }
   ]
 }
