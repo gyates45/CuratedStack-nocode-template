@@ -296,6 +296,15 @@
       "categories_slugs": [
         "relationships"
       ]
+    },
+    {
+      "name": "Necessary Endings",
+      "description": "While endings are a natural part of business and life, we often experience them with a sense of hesitation, sadness, resignation, or regret. But consultant, psychologist, and bestselling author Dr. Henry Cloud sees endings differently. He argues that our personal and professional lives can only improve to the degree that we can see endings as a necessary and strategic step to something better. If we cannot see endings in a positive light and execute them well, he asserts, the \"better\" will never come either in business growth or our personal lives.",
+      "icon": "/images/logos/necessary-endings.jpg",
+      "categories_slugs": [
+        "books"
+      ],
+      "url": "https://amzn.to/3eNUA7e"
     }
   ]
 }
