@@ -287,6 +287,15 @@
         "news"
       ],
       "icon": "/images/logos/technolawyer-logo.jpg"
+    },
+    {
+      "name": "Cafecito",
+      "description": "Tell Cafecito your background, profession, interest, and goals of using their relationship-building service. Each week, using your goals and interests Cafecito will use their algorithm and human verification to find a relevant Cafecito partner. Then, receive a 1:1 meeting link where you can join via audio or video and conversation starters for the meeting.",
+      "url": "https://www.meetcafecito.com/",
+      "icon": "/images/logos/cafecito-logo.png",
+      "categories_slugs": [
+        "relationships"
+      ]
     }
   ]
 }
