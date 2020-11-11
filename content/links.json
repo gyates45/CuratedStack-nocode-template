@@ -305,6 +305,15 @@
         "books"
       ],
       "url": "https://amzn.to/3eNUA7e"
+    },
+    {
+      "description": "Meetup is a platform for finding and building local communities. People use Meetup to meet new people, learn new things, find support, get out of their comfort zones, and pursue their passions, together.",
+      "name": "Meetup",
+      "url": "https://www.meetup.com/",
+      "categories_slugs": [
+        "relationships"
+      ],
+      "icon": "/images/logos/meetup-logo.png"
     }
   ]
 }
