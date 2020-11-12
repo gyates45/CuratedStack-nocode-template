@@ -386,6 +386,24 @@
       "categories_slugs": [
         "resumes"
       ]
+    },
+    {
+      "name": "Hunter Email Templates",
+      "description": "Hunter Templates is a curated directory of 150+ cold email templates, sorted by categories. Find inspiration from best-performing cold emails. Networking, Recruitment, Follow-up, Marketing, Sales, and SEO.",
+      "url": "https://hunter.io/templates",
+      "icon": "/images/logos/hunter-logo.png",
+      "categories_slugs": [
+        "relationships"
+      ]
+    },
+    {
+      "name": "Hunter",
+      "description": "Connect with anyone. Hunter lets you find email addresses in seconds and connect with the people that matter in your job search and career planning.",
+      "url": "https://hunter.io/",
+      "icon": "/images/logos/hunter-logo.png",
+      "categories_slugs": [
+        "relationships"
+      ]
     }
   ]
 }
