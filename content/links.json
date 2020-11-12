@@ -377,6 +377,15 @@
       ],
       "icon": "/images/logos/workflowy-logo.jpg",
       "url": "https://workflowy.com/"
+    },
+    {
+      "name": "Other Resume and Cover Letter Builders",
+      "description": "Links, brief descriptions, and reviews of additional resume and cover letter builders presented by Product Hunt.",
+      "url": "https://www.producthunt.com/alternatives/kickresume-3-0",
+      "icon": "/images/logos/product-hunt-logo.jpg",
+      "categories_slugs": [
+        "resumes"
+      ]
     }
   ]
 }
