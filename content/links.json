@@ -368,6 +368,15 @@
       ],
       "icon": "/images/logos/mindmeister-logo.png",
       "name": "MindMeister"
+    },
+    {
+      "name": "Workflowy",
+      "description": "WorkFlowy is a web-based organizational tool that enables users to create lists: personal to-dos, notes, team projects, research papers, and many more. It is a text-based, zoomable document that is flexible enough for organizing ideas in one's own way.",
+      "categories_slugs": [
+        "productivity"
+      ],
+      "icon": "/images/logos/workflowy-logo.jpg",
+      "url": "https://workflowy.com/"
     }
   ]
 }
