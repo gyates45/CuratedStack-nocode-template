@@ -359,6 +359,15 @@
       "categories_slugs": [
         "productivity"
       ]
+    },
+    {
+      "description": "MindMeister is a web-based mind mapping program that helps you capture your ideas, develop them, and share them visually with others. MindMeister can be used for brainstorming, planning projects, taking notes, and more.",
+      "url": "https://www.mindmeister.com/",
+      "categories_slugs": [
+        "productivity"
+      ],
+      "icon": "/images/logos/mindmeister-logo.png",
+      "name": "MindMeister"
     }
   ]
 }
