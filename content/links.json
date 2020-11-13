@@ -404,6 +404,15 @@
       "categories_slugs": [
         "relationships"
       ]
+    },
+    {
+      "description": "Staffing agencies are engaged by employers to find candidates to fill their open vacancies. These roles can be permanent, temporary, contract, hourly, or part-time. They are also known as employment agencies, recruitment agencies, temp agencies, staffing companies, and temporary agencies.",
+      "name": "Top 75 Best Staffing and Recruitment Agencies",
+      "url": "https://www.betterteam.com/staffing-agencies",
+      "categories_slugs": [
+        "job search"
+      ],
+      "icon": "/images/logos/betterteam-logo.png"
     }
   ]
 }
