@@ -422,6 +422,15 @@
       "categories_slugs": [
         "job-search-sites"
       ]
+    },
+    {
+      "name": "National Association of Legal Search Consultants",
+      "description": "The NALSC Member Directory contains listings for each member firm or individual with contact information, a direct e-mail link, specific information about any areas of specialization or particular expertise, and, if available, a hyperlink to the member’s website. ",
+      "url": "https://www.nalsc.org/members/",
+      "icon": "/images/logos/nalsc-logo.jpg",
+      "categories_slugs": [
+        "job-search-sites"
+      ]
     }
   ]
 }
