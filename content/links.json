@@ -413,6 +413,15 @@
         "job-search-sites"
       ],
       "icon": "/images/logos/betterteam-logo.png"
+    },
+    {
+      "name": "Legal Recruiter Directory",
+      "url": "https://www.legalrecruiterdirectory.org/directory/",
+      "description": "A comprehensive directory of legal recruiters. Here, attorneys can easily access contact information for legal recruiting firms in their local market or when planning for a relocation to a new city or state. ",
+      "icon": "/images/logos/legal-recruiter-directory-logo.png",
+      "categories_slugs": [
+        "job-search-sites"
+      ]
     }
   ]
 }
