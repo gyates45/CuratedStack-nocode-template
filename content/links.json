@@ -431,6 +431,42 @@
       "categories_slugs": [
         "job-search-sites"
       ]
+    },
+    {
+      "name": "The Email Tips Collection",
+      "description": "A collection of links to articles that will help you figure out how to write better emails, manage your emails and inbox, and use email as a sales and networking tool. The page is updated frequently, so bookmark it and check back in occasionally to see what’s new.",
+      "url": "https://joshspector.com/email-tips/",
+      "icon": "/images/logos/for-the-interested-logo.png",
+      "categories_slugs": [
+        "relationships"
+      ]
+    },
+    {
+      "name": "For The Interested Newsletter",
+      "description": "\"For The Interested\" is a website and weekly newsletter with a dose of inspiration and actionable ideas to help you better produce, promote, and profit from your creations.",
+      "url": "https://fortheinterested.com/start/",
+      "icon": "/images/logos/for-the-interested-logo.png",
+      "categories_slugs": [
+        "entrepreneurial"
+      ]
+    },
+    {
+      "name": "The Time Management Tips Collection",
+      "description": "A collection of links to articles that will help you better manage your time, be more productive, and feel less pressure and anxiety around time.",
+      "url": "https://joshspector.com/time-management-tips/",
+      "icon": "/images/logos/for-the-interested-logo.png",
+      "categories_slugs": [
+        "productivity"
+      ]
+    },
+    {
+      "name": "The Twitter Tips Collection",
+      "description": "A collection of links to Twitter tips to help you figure out what to tweet, get more followers, and get more value out of the platform. The page is updated frequently, so bookmark it and check back in occasionally to see what’s new.",
+      "url": "https://joshspector.com/twitter-tips/",
+      "icon": "/images/logos/for-the-interested-logo.png",
+      "categories_slugs": [
+        "relationships"
+      ]
     }
   ]
 }
