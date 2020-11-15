@@ -467,6 +467,24 @@
       "categories_slugs": [
         "relationships"
       ]
+    },
+    {
+      "description": "A global platform that allows anyone to create, share, find, and attend events (including virtual event) that fuel their passions.",
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/",
+      "icon": "/images/logos/eventbrite-logo.png",
+      "categories_slugs": [
+        "relationships"
+      ]
+    },
+    {
+      "name": "Nuton Productivity Stack",
+      "description": "Supercharge your productivity and get more done.",
+      "url": "https://www.nuton.co/stack/productivity-stack",
+      "icon": "/images/logos/nuton-logo.jpg",
+      "categories_slugs": [
+        "productivity"
+      ]
     }
   ]
 }
