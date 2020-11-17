@@ -485,6 +485,15 @@
       "categories_slugs": [
         "productivity"
       ]
+    },
+    {
+      "name": "Pocket Collection - How To Be More Creative",
+      "description": "Twenty-one great articles and resources about the art and science of cultivating creativity.",
+      "url": "https://getpocket.com/explore/item/how-to-be-more-creative",
+      "icon": "/images/logos/pocket-logo.jpg",
+      "categories_slugs": [
+        "entrepreneurial"
+      ]
     }
   ]
 }
