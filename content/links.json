@@ -494,6 +494,15 @@
       "categories_slugs": [
         "entrepreneurial"
       ]
+    },
+    {
+      "name": "Backlinko Digital Marketing Templates Library",
+      "description": "This brand new library contains templates for LinkedIn Summary (About) section, blog posts, SEO campaigns, content calendars, outreach emails, press releases, Facebook ads, and more.",
+      "url": "https://backlinko.com/templates/marketing",
+      "icon": "/images/logos/backlinko-logo.png",
+      "categories_slugs": [
+        "entrepreneurial"
+      ]
     }
   ]
 }
