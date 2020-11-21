@@ -521,6 +521,15 @@
       "categories_slugs": [
         "entrepreneurial"
       ]
+    },
+    {
+      "description": "How strong is your resume? Get a free, confidential review from a resume expert.",
+      "name": "TopResume Resume Review",
+      "categories_slugs": [
+        "resumes"
+      ],
+      "icon": "/images/logos/topresume-logo.png",
+      "url": "https://www.topresume.com/resume-review?pt=q7hPhyEpAjGFk&utm_content=best_resume_builders&utm_medium=referral&utm_source=CareerCloud"
     }
   ]
 }
