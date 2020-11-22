@@ -530,6 +530,15 @@
       ],
       "icon": "/images/logos/topresume-logo.png",
       "url": "https://www.topresume.com/resume-review?pt=q7hPhyEpAjGFk&utm_content=best_resume_builders&utm_medium=referral&utm_source=CareerCloud"
+    },
+    {
+      "name": "The Complete Job Interview Tool Kit",
+      "url": "https://docs.google.com/document/d/1GY1Aq7WdzeF8ijPoMbEPwrQe6akyGUq5DLis5j7lQGc/edit",
+      "description": "Franklin Graves, an experienced in-house counsel, shares a Google Doc with the prep process he followed in interviewing with Eventbright, HCA Healthcare, and a few other companies, as well as some learnings he gained along the way.",
+      "categories_slugs": [
+        "interviewing"
+      ],
+      "icon": "/images/logos/0.jpg"
     }
   ]
 }
