@@ -539,6 +539,15 @@
         "interviewing"
       ],
       "icon": "/images/logos/0.jpg"
+    },
+    {
+      "name": "Bloomberg Law's Business & Practice Newsletter",
+      "description": "The Business & Practice daily newsletter features the top stories affecting in-house counsel and law firms, with a focus on the business of law.",
+      "url": "https://profile.bna.com/profile/email_register/business_and_practice_newsletter",
+      "icon": "/images/logos/bloomberg-law-logo.png",
+      "categories_slugs": [
+        "news"
+      ]
     }
   ]
 }
