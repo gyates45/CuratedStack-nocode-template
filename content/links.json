@@ -548,6 +548,15 @@
       "categories_slugs": [
         "news"
       ]
+    },
+    {
+      "categories_slugs": [
+        "job-search-sites"
+      ],
+      "icon": "/images/logos/teal-logo.jpg",
+      "url": "https://www.tealhq.com/",
+      "description": "Job tracking made easy. Teal’s free job tracking software is an efficient way to manage a job search.",
+      "name": "Teal's Job Tracker"
     }
   ]
 }
