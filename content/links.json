@@ -557,6 +557,24 @@
       "url": "https://www.tealhq.com/",
       "description": "Job tracking made easy. Teal’s free job tracking software is an efficient way to manage a job search.",
       "name": "Teal's Job Tracker"
+    },
+    {
+      "categories_slugs": [
+        "well-being"
+      ],
+      "icon": "/images/logos/pocket-logo.jpg",
+      "description": "Cultivating gratitude can improve your life, rewire your brain, and influence those around you. Here’s how to get started.",
+      "name": "Pocket Collection - How to Be Grateful",
+      "url": "https://getpocket.com/explore/item/how-to-be-grateful"
+    },
+    {
+      "description": "Ground control for your job hunt. Organize your job search and discover new opportunities, all in one place.",
+      "name": "Huntr - Job Application Tracker & CRM",
+      "url": "https://huntr.co/",
+      "icon": "/images/logos/huntr-logo.png",
+      "categories_slugs": [
+        "job-search-sites"
+      ]
     }
   ]
 }
