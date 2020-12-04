@@ -575,6 +575,15 @@
       "categories_slugs": [
         "job-search-sites"
       ]
+    },
+    {
+      "description": "Side Hustle Stack is a resource to find platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow.",
+      "categories_slugs": [
+        "entrepreneurial"
+      ],
+      "name": "Side Hustle Stack",
+      "url": "https://sidehustlestack.co/",
+      "icon": "/images/logos/side-hustle-stack-logo.jpg"
     }
   ]
 }
