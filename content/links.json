@@ -584,6 +584,15 @@
       "name": "Side Hustle Stack",
       "url": "https://sidehustlestack.co/",
       "icon": "/images/logos/side-hustle-stack-logo.jpg"
+    },
+    {
+      "name": "Side Hustle Ideas: 176 Ways to Earn Extra Money (While Working Full-Time)",
+      "description": "This list of side hustles has everything you need to learn how to make money fast – even if you don’t have a clue where to start or how to choose. Heck, even if you feel like you don't have a business mindset, this list will help you get started.",
+      "url": "https://hacktheentrepreneur.com/side-hustle-ideas/",
+      "categories_slugs": [
+        "entrepreneurial"
+      ],
+      "icon": "/images/logos/hack-the-entrepreneur-logo.jpg"
     }
   ]
 }
