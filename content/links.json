@@ -593,6 +593,15 @@
         "entrepreneurial"
       ],
       "icon": "/images/logos/hack-the-entrepreneur-logo.jpg"
+    },
+    {
+      "name": "Complete Guide: How to Make Money Blogging in 2021",
+      "description": "This ultimate guide covers the tactics you can use to start a blog like a business and in-depth strategies to make money blogging in 2021 and beyond.",
+      "url": "https://blog.appsumo.com/make-money-with-a-blog/",
+      "categories_slugs": [
+        "entrepreneurial"
+      ],
+      "icon": "/images/logos/appsumo-logo.jpg"
     }
   ]
 }
