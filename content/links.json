@@ -602,6 +602,24 @@
         "entrepreneurial"
       ],
       "icon": "/images/logos/appsumo-logo.jpg"
+    },
+    {
+      "name": "Salary Research and Career Advice",
+      "description": "Salary.com pulls HR-reported aggregate market data to accurately report salary on thousands of jobs. The salaries are researched and validated by compensation professionals to ensure they reflect equitable pay in the modern workforce. Then you are given the tools to map to your specific education, experiences, and geography to find your exact pay range.",
+      "url": "https://www.salary.com/research",
+      "icon": "/images/logos/salary.com-logo.jpg",
+      "categories_slugs": [
+        "salary"
+      ]
+    },
+    {
+      "name": "Salary Data & Career Research Center",
+      "url": "https://www.payscale.com/research/US/Country=United_States/Salary",
+      "description": "Do career research and find in-depth salary data for specific jobs, employers, schools, and more.",
+      "icon": "/images/logos/payscale-logo.png",
+      "categories_slugs": [
+        "salary"
+      ]
     }
   ]
 }
