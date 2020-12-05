@@ -620,6 +620,24 @@
       "categories_slugs": [
         "salary"
       ]
+    },
+    {
+      "name": "How Lawyers Can Make Extra Money with a Side Hustle",
+      "description": "While most busy attorneys don’t have trouble making money, many still like to do a little work on the side. For starters, the extra cash is never unwelcome no matter how well you’re doing professionally. Furthermore, a side business can help lawyers to transition to an independent career in the future, if desired. Here are thirteen great side business ideas for lawyers.",
+      "url": "https://sidehustlehq.com/how-lawyers-can-make-extra-money-with-a-side-hustle/",
+      "categories_slugs": [
+        "entrepreneurial"
+      ],
+      "icon": "/images/logos/side-hustle-hq-logo.jpg"
+    },
+    {
+      "categories_slugs": [
+        "entrepreneurial"
+      ],
+      "name": "Best Freelance Attorney Jobs: Remote Side Hustles for Lawyers",
+      "description": "Are you an attorney seeking opportunities to make some more money during your free time? Here are 6 incredible freelance remote attorney jobs that will help you add some dollars to your account balance.",
+      "url": "https://centmatters.com/2020/07/freelance-remote-attorney-jobs",
+      "icon": "/images/logos/cent-matters-logo.png"
     }
   ]
 }
