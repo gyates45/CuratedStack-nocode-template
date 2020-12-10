@@ -43,6 +43,12 @@
       "icon": "👩‍🎓"
     },
     {
+      "slug": "job-search-sites",
+      "name": "Job Search Sites",
+      "description": "Best job search sites for your job search and career planning.",
+      "icon": "🕵"
+    },
+    {
       "slug": "resumes",
       "name": "Resumes and Other Job Search Documentation",
       "description": "Best resources and tools for resume, cover letter, outreach email, and thank you note creation and optimization.",
@@ -53,12 +59,6 @@
       "name": "Interviewing",
       "description": "Best resources and tools to prepare for and ace your interviews.",
       "icon": "🤵"
-    },
-    {
-      "slug": "job-search-sites",
-      "name": "Job Search Sites",
-      "description": "Best job search sites for your job search and career planning.",
-      "icon": "🕵"
     },
     {
       "slug": "entrepreneurial",
