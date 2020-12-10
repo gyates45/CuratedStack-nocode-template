@@ -638,6 +638,15 @@
       "description": "Are you an attorney seeking opportunities to make some more money during your free time? Here are 6 incredible freelance remote attorney jobs that will help you add some dollars to your account balance.",
       "url": "https://centmatters.com/2020/07/freelance-remote-attorney-jobs",
       "icon": "/images/logos/cent-matters-logo.png"
+    },
+    {
+      "categories_slugs": [
+        "learning"
+      ],
+      "description": "An affordable career GPS for young professionals. Lloyd is built on the premise that a person’s career is among the most important investments of emotion, time, and money of their life. They believe that the personal relationships they foster with their members are a key support structure as members successfully navigate the intricacies of building a career. ",
+      "name": "Lloyd",
+      "url": "https://www.withlloyd.com/",
+      "icon": "/images/logos/lloyd-logo.jpg"
     }
   ]
 }
