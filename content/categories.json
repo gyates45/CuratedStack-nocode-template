@@ -38,7 +38,7 @@
     },
     {
       "slug": "learning",
-      "name": "Job Search",
+      "name": "Job Search Resources",
       "description": "Best resources and tools for your job search, including personal advice, online training, and courses useful for your successful job search and career planning.",
       "icon": "👩‍🎓"
     },
@@ -56,7 +56,7 @@
     },
     {
       "slug": "job-search-sites",
-      "name": "Job Search",
+      "name": "Job Search Sites",
       "description": "Best job search sites for your job search and career planning.",
       "icon": "🕵"
     },
